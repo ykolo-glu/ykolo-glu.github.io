@@ -1,7 +1,7 @@
 # Yusuf Kologlu
 
 ## Persönliches
-hier link
+[Persönliche Infos](private.md)
 
 ## Berufserfahrung
 * Samstagsaushilfe Bauhaus
